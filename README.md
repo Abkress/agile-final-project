@@ -1,2 +1,2 @@
 # agile-final-project
-this repository will contain stackholders requirements 
+this repository contains the agile final project 
